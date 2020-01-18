@@ -1,0 +1,24 @@
+{
+  "name": "aws-transcribe-converter",
+  "version": "0.1.0-alpha",
+  "description": "Convert AWS Transcribe JSON to other formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencodezen/aws-transcribe-converter.git"
+  },
+  "keywords": [
+    "aws",
+    "transcribe",
+    "transcription"
+  ],
+  "author": "Ben Hong <ben@bencodezen.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencodezen/aws-transcribe-converter/issues"
+  },
+  "homepage": "https://github.com/bencodezen/aws-transcribe-converter#readme"
+}
